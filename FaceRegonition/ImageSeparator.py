@@ -17,7 +17,7 @@ def main(args):
     dir_temp = path + '/temp/'
     dir_biblioteca = path + '/agrupamento/'
     # Carrega a foto em um Array Numpy
-    image = face_recognition.load_image_file("images/originais/familia2.jpg")
+    image = face_recognition.load_image_file("images/originals/familia.jpg")
  
     # Busca os rostos na imagem usando o modelo padrão HOG.
     face_locations = face_recognition.face_locations(image)
