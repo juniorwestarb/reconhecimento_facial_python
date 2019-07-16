@@ -1,17 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-#
-#  rostopb.py
-# 
-# 
+
 import face_recognition
 import cv2
  
  
 def main(args):
- 
- 
- 
+
     # Cria um objeto de captura de video, na camera default
     video_capture = cv2.VideoCapture(0)
  

@@ -10,3 +10,4 @@ Biblioteca baseada em FaceRegonition utilizando treinamento de machine learning 
 Reconhecimento de rostos baseado em FaceRegonition com alimentação de padrões (matrizes) em tempo real para utilização em cameras IP e webcam.
 - ## RegonizeFaceThread:
 Reconhecimento de rostos baseado em FaceRegonition utilizando thread (melhorando desempenho e taxa de quadros por segundo) com alimentação de padrões (matrizes) em tempo real para utilização em cameras IP e webcam.
+- ##Backgroundless (Em desenvolvimento Inicial)
